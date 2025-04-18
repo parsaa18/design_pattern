@@ -1,0 +1,5 @@
+1. Adapter
+2. Decorator
+3. Facade
+4. Composite
+5. Proxy
